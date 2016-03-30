@@ -1,3 +1,4 @@
 novi fajl 
 promjene koje je napravio netko drugi
 pokusavamo generirat konflikt
+još konflikata
