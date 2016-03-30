@@ -1,3 +1,3 @@
 novi fajl 
-promjene koje je napravio netko drugi dodan novi tekts
-dodan treæi red tamo nešto
+promjene koje je napravio netko drugi
+pokusavamo generirat konflikt
